@@ -5,7 +5,8 @@
 Username = **kpickett** email = **kpickett@ucsd.edu** 
 
 <br>(3) The image-grader URL for full-res images on edX edge. 
-[Link](https://raviucsdgroup.s3.amazonaws.com/homework2/3851b050fb730643a508b2929926d306/20250425022132/index.html)
+[Link](https://raviucsdgroup.s3.amazonaws.com/homework3a/3851b050fb730643a508b2929926d306/20250507065536/index.html)
+[Link2](https://raviucsdgroup.s3.amazonaws.com/homework3b/3851b050fb730643a508b2929926d306/20250507062552/index.html)
 
 <br>(4) The platform your code supports and any specific compilation instructions.
 **Used OpenGL**<br>
