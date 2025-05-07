@@ -14,4 +14,4 @@ make -j <br>
 
 <br>(5) Any special comments, issues or points in grading or generally about the assignment you want to convey. For this assignment, you should at least describe the acceleration structure you use.
 <br>
-**This homework was a lot fairer than the last in my opinion.**
+**This homework had a lot of little bugs that were hard to fix.**
