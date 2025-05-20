@@ -19,4 +19,4 @@ make -j <br>
 
 <br>(5) Any special comments, issues or points in grading or generally about the assignment you want to convey. For this assignment, you should at least describe the acceleration structure you use.
 <br>
-**I tried implementing it but there were a lot of problems trying to add everything together and keep it separate.**
+**I tried implementing it but there were a lot of problems trying to add everything together and keep it separate. Especially since no one was able to be my partner.**
